@@ -12,8 +12,8 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
 * 🧠  I'm learning React
 
 ### Skills
-- new
-------------------------
+
+-------------------------------
 
 
 <p align="center">
