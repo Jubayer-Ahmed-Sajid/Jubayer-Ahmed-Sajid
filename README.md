@@ -29,7 +29,7 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
 
 
 ### Badges
-<hr style="border-bottom: 1px solid black;">
+<hr style="border-bottom: 0px solid black;">
 
  ##### 📊 GitHub Stats:</h3>
 
