@@ -13,7 +13,7 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
 
 <h3> Skills
 </h3>
-</hr>
+
 -------------------------------
 
 
