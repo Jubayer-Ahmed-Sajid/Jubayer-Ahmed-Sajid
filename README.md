@@ -10,7 +10,7 @@ I am a Junior MERN Stack Developer with a comprehensive background in web develo
 * 🌍  I'm based in Dhaka,Bangladesh
 * ✉️  You can contact me at [sajid661aca@gmail.com](mailto:sajid661aca@gmail.com)
 * 🌱 I’m currently learning Next.js
-*📝 I am proficient in React
+* 📝 I am proficient in React
 * 🔭 I’m currently working on a personal project
 
 <h3 align='center'>Skills</h3> 
