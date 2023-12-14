@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Mern Stack Web Developer
 -------------------------------
 
-I am a junior Mern Stack developer ,who is passionate about web development and looking for the chance to work with a company and to take the development career in the next level with the company.
+I am a Junior MERN Stack Developer with a comprehensive background in web development. My academic journey and practical experience have equipped me with a solid skill set in Frontend development, focusing on the MERN (MongoDB, Express.js, React, Node.js) stack.I have a good enough skill to begin as a junior frontend developer and I have a decent experience in the backend technology such as Express.js,MongoDB and Node.js. I am seeking an opportunity to apply my technical expertise and contribute effectively to a dynamic and forward-thinking company.
 
 * 🌍  I'm based in Dhaka,Bangladesh
 * ✉️  You can contact me at [sajid661aca@gmail.com](mailto:sajid661aca@gmail.com)
