@@ -14,6 +14,7 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
 <h3 align="center">
  Skills
 </h3>
+</hr>
 
 
 <p align="center">
