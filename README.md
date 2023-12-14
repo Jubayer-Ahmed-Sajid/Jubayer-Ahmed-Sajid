@@ -38,7 +38,7 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
 
 
 <div align='center'>
-  ##### 📊 GitHub Stats:</h3>
+  <h5> 📊 GitHub Stats:</h5>
  
 <a href="http://www.github.com/Jubayer-Ahmed-Sajid"><img src="https://github-readme-stats.vercel.app/api?username=Jubayer-Ahmed-Sajid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jubayer-Ahmed-Sajid's GitHub stats" /></a>
 
