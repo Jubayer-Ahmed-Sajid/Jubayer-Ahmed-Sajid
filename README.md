@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Mern Stack Web Developer
 -------------------------------
 
-I am a junior Mern Stack developer ,who is passionate about web development and looking for the chance to work with a company and to take the development career in the next levelwith the company.
+I am a junior Mern Stack developer ,who is passionate about web development and looking for the chance to work with a company and to take the development career in the next level with the company.
 
 * 🌍  I'm based in Dhaka,Bangladesh
 * ✉️  You can contact me at [sajid661aca@gmail.com](mailto:sajid661aca@gmail.com)
