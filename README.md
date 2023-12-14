@@ -11,7 +11,9 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
 * ✉️  You can contact me at [sajid661aca@gmail.com](mailto:sajid661aca@gmail.com)
 * 🧠  I'm learning React
 
-<h3 style="border-bottom: 1px solid black;">Skills</h3>
+### Skills
+
+===========================================================================================================================================
 
 
 
