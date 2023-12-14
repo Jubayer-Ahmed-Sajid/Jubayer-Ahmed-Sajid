@@ -37,12 +37,12 @@ I am a junior Mern Stack developer ,who is passionate about web development and 
  ##### 📊 GitHub Stats:</h3>
 
 
-<div display='flex'>
+<div align='center'>
 <a href="http://www.github.com/Jubayer-Ahmed-Sajid"><img src="https://github-readme-stats.vercel.app/api?username=Jubayer-Ahmed-Sajid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jubayer-Ahmed-Sajid's GitHub stats" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubayer-ahmed-sajid&theme=radical&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
+<a href="https://github.com/Jubayer-Ahmed-Sajid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-Ahmed-Sajid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 
-<a href="https://github.com/Jubayer-Ahmed-Sajid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-Ahmed-Sajid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
