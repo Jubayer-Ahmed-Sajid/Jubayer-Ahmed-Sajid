@@ -36,5 +36,5 @@ I am a Junior MERN Stack Developer with a comprehensive background in web develo
 
 <a href="https://github.com/Jubayer-Ahmed-Sajid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-Ahmed-Sajid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-[![](https://visitcount.itsvg.in/api?id=Jubayer-ahmed-sajid&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jubayer-ahmed-sajid&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)]
 
